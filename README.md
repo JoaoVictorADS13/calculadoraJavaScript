@@ -1,2 +1,2 @@
 # calculadoraJavaScript
-Código de uma calculadora desenvolvida em JavaScript.
+Código de uma calculadora desenvolvida com HTML,CSS e JavaScript.
